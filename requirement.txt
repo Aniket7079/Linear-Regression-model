@@ -1,0 +1,6 @@
+...............................Requirement.................................
+
+Python
+Jupeter Notebook
+install all python and Machine Learning Libraries
+
